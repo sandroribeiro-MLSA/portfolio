@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sandro Ribeiro",
-  title: "BI Tech Lead & MLSA",
+  title: "BI Tech Lead & MLSA - test",
   email: "sandro.ribeirojr@outlook.com",
   gitHub: "sandroribeiro-MLSA",
   instagram: "",
