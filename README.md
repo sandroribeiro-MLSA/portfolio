@@ -404,7 +404,10 @@ Now that you are familiar how Copilot can not only help you code faster, but giv
 
 Explore how you can use Copilot to help you:
 * add Education to your top navigation
-* build education details by prompting it (_Hint_: add the comment of "grid of 4 education cells") 
+* build education details by prompting it (_Hint_: add the comment of "grid of 4 education cells")
+* teste
+* teste
+* teste
 -------
 
 <br />
